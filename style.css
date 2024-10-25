@@ -204,8 +204,9 @@ button{
     display:none;
   }
   .cart,
-  .postitem,
-  .username{
+  .postitem
+  .username,
+  .sign-up{
     display:none;
   }
   .side-bar{
